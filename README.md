@@ -19,8 +19,8 @@
    
    **EDUCATIONAL QUALIFICATIONS**
    
-   COURSE    | INSTITUTION    | % OF MARKS SECURED | YEAR OF PASSING 
------------- | -------------  | ------------------ | --------------- 
+   COURSE    | INSTITUTION    | % OF MARKS SECURED |  YEAR OF PASSING 
+------------ | -------------  | ------------------ |  --------------- 
 B.Tech-CSE| College of Engineering,Chengannur | 85% | 2019
 12th | ST.Peter’s  H.S.S,Kurumpanadom | 97% | 2015
 S.S.L.C | ST.Anne’s  G.H.S.S,Changanacherry | 95% | 2013 
