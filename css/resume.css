@@ -12,7 +12,7 @@ h1{
 .name{
 	font-size: 25px;
 	color: red;
-	line-height: 220%;
+	line-height: 120%;
 }
 
 h2{
@@ -30,4 +30,6 @@ th{
 
 td{
 	font-size: 20px;
+	line-height: 110%;
+	width: 110%;
 }	
