@@ -35,5 +35,7 @@ th{
 }
 
 tr{
+	width: 50px;
+	font-size: 30px;
 	color: red;
 }	
