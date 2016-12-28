@@ -24,9 +24,11 @@ p{
 }
 
 th{
+	text-align: left;
+	width: 40px;
 	font-size: 20px;
 	color: green;
-	width: 40px;
+	
 }
 
 td{
