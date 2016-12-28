@@ -7,11 +7,12 @@ h1{
 
 .image{
 	position: center;
+	float: left;
 }
 
 .name{
-	text-align: center;
-	font-size: 25px;
+	float: right;
+	font-size: 20px;
 	color: red;
 	line-height: 120%;
 }
