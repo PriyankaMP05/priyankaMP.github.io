@@ -13,9 +13,10 @@ h1{
 	float: right;
 	font-size: 20px;
 	color: red;
-	line-height: 120%;
-	clear:both;
+	line-height: 120%;	
 }
+
+clear:both;
 
 h2{
 	color: cyan;
