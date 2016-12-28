@@ -1,9 +1,7 @@
-                                                             #RESUME
-
+   #RESUME
+ 
   
-      ![image] (https://avatars2.githubusercontent.com/u/17318161?v=3&u=7a70ef1852abb5a04455130117cc7bcacfac1d7b&s=400)       
-                                                                                                   
-                                                                                                    
+   ![image] (https://avatars2.githubusercontent.com/u/17318161?v=3&u=7a70ef1852abb5a04455130117cc7bcacfac1d7b&s=400)       
                                                                                                    PRIYANKA MP
                                                                                                    MAILAMOOTTIL(H)
                                                                                                    ITHITHANAM P.O
@@ -12,12 +10,19 @@
                                                                                                    Priyankamp597@gmail.com    
                                                                                                    
                                                                                                    
-    **CAREER OBJECTIVE**
-    Seeking a challenging job in a dynamic  industrial environment so that I can professionally grow 
-    and prove my skills as a software engineer. To add valuable assets to your esteemed organisation as an active member
-    by utilising my innovative thinking and creativity.
     
     
+    
+    
+    
+  **CAREER OBJECTIVE**
+  seeking a challenging job in a dynamic  industrial environment so that I can professionally grow 
+  and prove my skills as a software engineer. To add valuable assets to your esteemed organisation as an active member
+  by utilising my innovative thinking and creativity.
+    
+    
+   
+   
    **EDUCATIONAL QUALIFICATIONS**
    
    COURSE    | INSTITUTION    | % OF MARKS SECURED | YEAR OF PASSING 
