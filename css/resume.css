@@ -16,9 +16,10 @@ h1{
 	line-height: 120%;	
 }
 
-clear:both;
+
 
 h2{
+	clear:both;
 	color: cyan;
 }
 
