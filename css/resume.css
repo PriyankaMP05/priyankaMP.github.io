@@ -10,6 +10,7 @@ h1{
 }
 
 .name{
+	text-align: center;
 	font-size: 25px;
 	color: red;
 	line-height: 120%;
